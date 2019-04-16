@@ -1,5 +1,6 @@
 # python2to3-inspector
-Inspect behavior for updating Python version from 2.x to 3.x.
+Inspect behavior for updating Python version from 2.x to 3.x.  
+This code works on only Python 2.x.
 
 ## 2to3
 https://docs.python.org/3/library/2to3.html
